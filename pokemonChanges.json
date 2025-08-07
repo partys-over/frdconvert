@@ -1,0 +1,2693 @@
+{
+   "?": [
+      "Ursapluff",
+      "No Ability",
+      "Chlorophyll",
+      "No Ability",
+      "Chlorophyll",
+      "0",
+      "0"
+   ],
+   "Absol": [
+      "Absol",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "3",
+      "3"
+   ],
+   "Aerodactyl": [
+      "Aerodactyl",
+      "Rock Head",
+      "Rock Head",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Aggron": [
+      "Tauros-Pb",
+      "Sturdy",
+      "Flame Body",
+      "Rock Head",
+      "Flame Body",
+      "5",
+      "5"
+   ],
+   "Aipom": [
+      "Aipom",
+      "Run Away",
+      "Limber",
+      "Pickup",
+      "Limber",
+      "4",
+      "4"
+   ],
+   "Alakazam": [
+      "Alakazam",
+      "Synchronize",
+      "Synchronize",
+      "Inner Focus",
+      "Inner Focus",
+      "3",
+      "3"
+   ],
+   "Altaria": [
+      "Harcanine",
+      "Natural Cure",
+      "Intimidate",
+      "Natural Cure",
+      "Flash Fire",
+      "1",
+      "5"
+   ],
+   "Ampharos": [
+      "Ampharos",
+      "Static",
+      "Static",
+      "Static",
+      "Static",
+      "3",
+      "3"
+   ],
+   "Anorith": [
+      "Farfetchdg",
+      "Battle Armor",
+      "Inner Focus",
+      "Battle Armor",
+      "Keen Eye",
+      "1",
+      "0"
+   ],
+   "Arbok": [
+      "Arbok",
+      "Intimidate",
+      "Intimidate",
+      "Shed Skin",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Ariados": [
+      "Ariados",
+      "Swarm",
+      "Intimidate",
+      "Insomnia",
+      "Intimidate",
+      "4",
+      "4"
+   ],
+   "Armaldo": [
+      "Sirfetch'D",
+      "Battle Armor",
+      "Inner Focus",
+      "Battle Armor",
+      "Keen Eye",
+      "1",
+      "0"
+   ],
+   "Aron": [
+      "Tauros-P",
+      "Sturdy",
+      "Intimidate",
+      "Rock Head",
+      "Intimidate",
+      "5",
+      "5"
+   ],
+   "Articuno": [
+      "Articuno",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Azumarill": [
+      "Azumarill",
+      "Thick Fat",
+      "Huge Power",
+      "Huge Power",
+      "Huge Power",
+      "4",
+      "4"
+   ],
+   "Baltoy": [
+      "Togekiss",
+      "Levitate",
+      "Serene Grace",
+      "Levitate",
+      "Hustle",
+      "0",
+      "4"
+   ],
+   "Banette": [
+      "Meowth-Galar",
+      "Insomnia",
+      "Run Away",
+      "Insomnia",
+      "Run Away",
+      "4",
+      "0"
+   ],
+   "Barboach": [
+      "Meowth-Alola",
+      "Oblivious",
+      "Pickup",
+      "Oblivious",
+      "Pickup",
+      "0",
+      "0"
+   ],
+   "Beautifly": [
+      "Golem-Alola",
+      "Swarm",
+      "Magnet Pull",
+      "Swarm",
+      "Sturdy",
+      "0",
+      "3"
+   ],
+   "Beedrill": [
+      "Beedrill",
+      "Swarm",
+      "Swarm",
+      "Swarm",
+      "Swarm",
+      "0",
+      "0"
+   ],
+   "Bellossom": [
+      "Bellossom",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Flash Fire",
+      "3",
+      "3"
+   ],
+   "Bellsprout": [
+      "Bellsprout",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Blastoise": [
+      "Blastoise",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Shell Armor",
+      "3",
+      "5"
+   ],
+   "Blissey": [
+      "Blissey",
+      "Natural Cure",
+      "Oblivious",
+      "Serene Grace",
+      "Oblivious",
+      "4",
+      "4"
+   ],
+   "Breloom": [
+      "Mantyke",
+      "Effect Spore",
+      "Swift Swim",
+      "Effect Spore",
+      "Water Absorb",
+      "2",
+      "5"
+   ],
+   "Bulbasaur": [
+      "Bulbasaur",
+      "Overgrow",
+      "Overgrow",
+      "Overgrow",
+      "Poison Point",
+      "3",
+      "5"
+   ],
+   "Butterfree": [
+      "Butterfree",
+      "Compoundeyes",
+      "Shield Dust",
+      "Compoundeyes",
+      "Shield Dust",
+      "0",
+      "5"
+   ],
+   "Cacnea": [
+      "Grimer-Alola",
+      "Sand Veil",
+      "Sticky Hold",
+      "Sand Veil",
+      "Stench",
+      "3",
+      "0"
+   ],
+   "Cacturne": [
+      "Muk-Alola",
+      "Sand Veil",
+      "Sticky Hold",
+      "Sand Veil",
+      "Stench",
+      "3",
+      "0"
+   ],
+   "Camerupt": [
+      "Ursaluna",
+      "Magma Armor",
+      "Guts",
+      "Magma Armor",
+      "Thick Fat",
+      "0",
+      "0"
+   ],
+   "Carvanha": [
+      "Sneasel-H",
+      "Rough Skin",
+      "Inner Focus",
+      "Rough Skin",
+      "Inner Focus",
+      "5",
+      "3"
+   ],
+   "Cascoon": [
+      "Vulpix-Alola",
+      "Shed Skin",
+      "Flash Fire",
+      "Shed Skin",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Castform": [
+      "Mime Jr.",
+      "Forecast",
+      "Cute Charm",
+      "Forecast",
+      "Soundproof",
+      "0",
+      "0"
+   ],
+   "Caterpie": [
+      "Caterpie",
+      "Shield Dust",
+      "Shield Dust",
+      "Shield Dust",
+      "Shield Dust",
+      "0",
+      "5"
+   ],
+   "Celebi": [
+      "Celebi",
+      "Natural Cure",
+      "Natural Cure",
+      "Natural Cure",
+      "Natural Cure",
+      "3",
+      "3"
+   ],
+   "Chansey": [
+      "Chansey",
+      "Natural Cure",
+      "Natural Cure",
+      "Serene Grace",
+      "Serene Grace",
+      "4",
+      "4"
+   ],
+   "Charizard": [
+      "Charizard",
+      "Blaze",
+      "Blaze",
+      "Blaze",
+      "Flash Fire",
+      "3",
+      "5"
+   ],
+   "Charmander": [
+      "Charmander",
+      "Blaze",
+      "Blaze",
+      "Blaze",
+      "Flash Fire",
+      "3",
+      "5"
+   ],
+   "Charmeleon": [
+      "Charmeleon",
+      "Blaze",
+      "Blaze",
+      "Blaze",
+      "Flash Fire",
+      "3",
+      "5"
+   ],
+   "Chimecho": [
+      "Farigiraf",
+      "Levitate",
+      "Inner Focus",
+      "Levitate",
+      "Intimidate",
+      "4",
+      "4"
+   ],
+   "Clamperl": [
+      "Articuno-Galar",
+      "Shell Armor",
+      "Pressure",
+      "Shell Armor",
+      "Pressure",
+      "1",
+      "5"
+   ],
+   "Claydol": [
+      "Yanmega",
+      "Levitate",
+      "Compoundeyes",
+      "Levitate",
+      "Compoundeyes",
+      "0",
+      "0"
+   ],
+   "Cloyster": [
+      "Cloyster",
+      "Shell Armor",
+      "Shell Armor",
+      "Shell Armor",
+      "Rain Dish",
+      "5",
+      "5"
+   ],
+   "Corphish": [
+      "Qwilfish-H",
+      "Hyper Cutter",
+      "Poison Point",
+      "Shell Armor",
+      "Swift Swim",
+      "2",
+      "0"
+   ],
+   "Corsola": [
+      "Corsola",
+      "Hustle",
+      "Natural Cure",
+      "Natural Cure",
+      "Hustle",
+      "4",
+      "4"
+   ],
+   "Cradily": [
+      "Slowking-Galar",
+      "Suction Cups",
+      "Oblivious",
+      "Suction Cups",
+      "Own Tempo",
+      "1",
+      "0"
+   ],
+   "Crawdaunt": [
+      "Overqwil",
+      "Hyper Cutter",
+      "Poison Point",
+      "Shell Armor",
+      "Swift Swim",
+      "2",
+      "0"
+   ],
+   "Croconaw": [
+      "Croconaw",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "3",
+      "3"
+   ],
+   "Delcatty": [
+      "Dugtrio-Alola",
+      "Cute Charm",
+      "Arena Trap",
+      "Cute Charm",
+      "Magnet Pull",
+      "4",
+      "0"
+   ],
+   "Delibird": [
+      "Delibird",
+      "Vital Spirit",
+      "Vital Spirit",
+      "Hustle",
+      "Hustle",
+      "4",
+      "4"
+   ],
+   "Dewgong": [
+      "Dewgong",
+      "Thick Fat",
+      "Thick Fat",
+      "Thick Fat",
+      "Thick Fat",
+      "0",
+      "0"
+   ],
+   "Diglett": [
+      "Diglett",
+      "Sand Veil",
+      "Arena Trap",
+      "Arena Trap",
+      "Sand Veil",
+      "0",
+      "0"
+   ],
+   "Ditto": [
+      "Ditto",
+      "Limber",
+      "Limber",
+      "Limber",
+      "Limber",
+      "0",
+      "0"
+   ],
+   "Dodrio": [
+      "Dodrio",
+      "Run Away",
+      "Intimidate",
+      "Early Bird",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Doduo": [
+      "Doduo",
+      "Run Away",
+      "Early Bird",
+      "Early Bird",
+      "Run Away",
+      "0",
+      "0"
+   ],
+   "Donphan": [
+      "Donphan",
+      "Sturdy",
+      "Rock Head",
+      "Sturdy",
+      "Rock Head",
+      "0",
+      "0"
+   ],
+   "Dragonair": [
+      "Dragonair",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "5",
+      "5"
+   ],
+   "Dratini": [
+      "Dratini",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "5",
+      "5"
+   ],
+   "Drowzee": [
+      "Drowzee",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "0",
+      "0"
+   ],
+   "Dugtrio": [
+      "Dugtrio",
+      "Sand Veil",
+      "Arena Trap",
+      "Arena Trap",
+      "Sand Veil",
+      "0",
+      "0"
+   ],
+   "Dunsparce": [
+      "Dunsparce",
+      "Serene Grace",
+      "Serene Grace",
+      "Run Away",
+      "Serene Grace",
+      "0",
+      "0"
+   ],
+   "Dusclops": [
+      "Electrodeh",
+      "Pressure",
+      "Static",
+      "Pressure",
+      "Soundproof",
+      "4",
+      "0"
+   ],
+   "Duskull": [
+      "Voltorb-H",
+      "Levitate",
+      "Static",
+      "Levitate",
+      "Soundproof",
+      "4",
+      "0"
+   ],
+   "Dustox": [
+      "Ninetalesa",
+      "Shield Dust",
+      "Flash Fire",
+      "Shield Dust",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Eevee": [
+      "Eevee",
+      "Run Away",
+      "Run Away",
+      "Run Away",
+      "Run Away",
+      "0",
+      "0"
+   ],
+   "Ekans": [
+      "Ekans",
+      "Intimidate",
+      "Intimidate",
+      "Shed Skin",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Electabuzz": [
+      "Electabuzz",
+      "Static",
+      "Static",
+      "Static",
+      "Static",
+      "0",
+      "0"
+   ],
+   "Electrike": [
+      "Wiglett",
+      "Static",
+      "Swift Swim",
+      "Lightningrod",
+      "Sand Veil",
+      "5",
+      "5"
+   ],
+   "Electrode": [
+      "Electrode",
+      "Soundproof",
+      "Static",
+      "Static",
+      "Soundproof",
+      "0",
+      "0"
+   ],
+   "Elekid": [
+      "Elekid",
+      "Static",
+      "Static",
+      "Static",
+      "Static",
+      "0",
+      "0"
+   ],
+   "Entei": [
+      "Entei",
+      "Pressure",
+      "Inner Focus",
+      "Pressure",
+      "Inner Focus",
+      "5",
+      "5"
+   ],
+   "Espeon": [
+      "Espeon",
+      "Synchronize",
+      "Synchronize",
+      "Synchronize",
+      "Synchronize",
+      "0",
+      "0"
+   ],
+   "Exeggcute": [
+      "Exeggcute",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "5",
+      "5"
+   ],
+   "Exploud": [
+      "Tangrowth",
+      "Soundproof",
+      "Chlorophyll",
+      "Soundproof",
+      "Chlorophyll",
+      "3",
+      "0"
+   ],
+   "Farfetch'D": [
+      "Farfetch'D",
+      "Keen Eye",
+      "Pure Power",
+      "Inner Focus",
+      "Huge Power",
+      "0",
+      "0"
+   ],
+   "Fearow": [
+      "Fearow",
+      "Keen Eye",
+      "Sand Veil",
+      "Keen Eye",
+      "Sand Veil",
+      "0",
+      "0"
+   ],
+   "Feraligatr": [
+      "Feraligatr",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "3",
+      "3"
+   ],
+   "Flaaffy": [
+      "Flaaffy",
+      "Static",
+      "Static",
+      "Static",
+      "Static",
+      "3",
+      "3"
+   ],
+   "Flareon": [
+      "Flareon",
+      "Flash Fire",
+      "Drought",
+      "Flash Fire",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Flygon": [
+      "Flygon",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "3",
+      "3"
+   ],
+   "Forretress": [
+      "Forretress",
+      "Sturdy",
+      "Shell Armor",
+      "Sturdy",
+      "Shell Armor",
+      "0",
+      "0"
+   ],
+   "Furret": [
+      "Furret",
+      "Run Away",
+      "Guts",
+      "Keen Eye",
+      "Guts",
+      "0",
+      "0"
+   ],
+   "Gengar": [
+      "Gengar",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "3",
+      "3"
+   ],
+   "Girafarig": [
+      "Girafarig",
+      "Inner Focus",
+      "Inner Focus",
+      "Early Bird",
+      "Early Bird",
+      "0",
+      "0"
+   ],
+   "Glalie": [
+      "Kleavor",
+      "Inner Focus",
+      "Swarm",
+      "Inner Focus",
+      "Swarm",
+      "0",
+      "0"
+   ],
+   "Gloom": [
+      "Gloom",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Stench",
+      "3",
+      "3"
+   ],
+   "Goldeen": [
+      "Goldeen",
+      "Swift Swim",
+      "Swift Swim",
+      "Water Veil",
+      "Water Veil",
+      "0",
+      "0"
+   ],
+   "Golduck": [
+      "Golduck",
+      "Damp",
+      "Damp",
+      "Cloud Nine",
+      "Cloud Nine",
+      "0",
+      "0"
+   ],
+   "Gorebyss": [
+      "Moltres-Galar",
+      "Swift Swim",
+      "Pressure",
+      "Swift Swim",
+      "Pressure",
+      "1",
+      "5"
+   ],
+   "Granbull": [
+      "Granbull",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "4",
+      "4"
+   ],
+   "Grimer": [
+      "Grimer",
+      "Stench",
+      "Sticky Hold",
+      "Sticky Hold",
+      "Stench",
+      "0",
+      "0"
+   ],
+   "Groudon": [
+      "Groudon",
+      "Drought",
+      "Drought",
+      "Drought",
+      "Drought",
+      "5",
+      "5"
+   ],
+   "Growlithe": [
+      "Growlithe",
+      "Intimidate",
+      "Intimidate",
+      "Flash Fire",
+      "Flash Fire",
+      "5",
+      "5"
+   ],
+   "Grumpig": [
+      "Sandslasha",
+      "Thick Fat",
+      "Soundproof",
+      "Own Tempo",
+      "Soundproof",
+      "4",
+      "0"
+   ],
+   "Gulpin": [
+      "Porygon-Z",
+      "Liquid Ooze",
+      "Trace",
+      "Sticky Hold",
+      "Trace",
+      "2",
+      "0"
+   ],
+   "Gyarados": [
+      "Gyarados",
+      "Intimidate",
+      "Swift Swim",
+      "Intimidate",
+      "Swift Swim",
+      "5",
+      "5"
+   ],
+   "Hitmonchan": [
+      "Hitmonchan",
+      "Keen Eye",
+      "Battle Armor",
+      "Keen Eye",
+      "Battle Armor",
+      "0",
+      "0"
+   ],
+   "Hitmonlee": [
+      "Hitmonlee",
+      "Limber",
+      "Limber",
+      "Limber",
+      "Limber",
+      "0",
+      "0"
+   ],
+   "Hitmontop": [
+      "Hitmontop",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Ho-Oh": [
+      "Ho-Oh",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Hoothoot": [
+      "Hoothoot",
+      "Insomnia",
+      "Insomnia",
+      "Keen Eye",
+      "Keen Eye",
+      "0",
+      "0"
+   ],
+   "Hoppip": [
+      "Hoppip",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Houndoom": [
+      "Houndoom",
+      "Early Bird",
+      "Intimidate",
+      "Flash Fire",
+      "Flash Fire",
+      "5",
+      "5"
+   ],
+   "Houndour": [
+      "Houndour",
+      "Early Bird",
+      "Intimidate",
+      "Flash Fire",
+      "Flash Fire",
+      "5",
+      "5"
+   ],
+   "Huntail": [
+      "Zapdos-Galar",
+      "Swift Swim",
+      "Pressure",
+      "Swift Swim",
+      "Pressure",
+      "1",
+      "5"
+   ],
+   "Hypno": [
+      "Hypno",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "0",
+      "0"
+   ],
+   "Igglybuff": [
+      "Igglybuff",
+      "Cute Charm",
+      "Cute Charm",
+      "Cute Charm",
+      "Soundproof",
+      "4",
+      "4"
+   ],
+   "Illumise": [
+      "Clodsire",
+      "Oblivious",
+      "Water Absorb",
+      "Oblivious",
+      "Poison Point",
+      "2",
+      "0"
+   ],
+   "Ivysaur": [
+      "Ivysaur",
+      "Overgrow",
+      "Overgrow",
+      "Overgrow",
+      "Poison Point",
+      "3",
+      "5"
+   ],
+   "Jigglypuff": [
+      "Jigglypuff",
+      "Cute Charm",
+      "Cute Charm",
+      "Cute Charm",
+      "Soundproof",
+      "4",
+      "4"
+   ],
+   "Jolteon": [
+      "Jolteon",
+      "Volt Absorb",
+      "Volt Absorb",
+      "Volt Absorb",
+      "Volt Absorb",
+      "0",
+      "0"
+   ],
+   "Jumpluff": [
+      "Jumpluff",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Kabuto": [
+      "Kabuto",
+      "Swift Swim",
+      "Swift Swim",
+      "Battle Armor",
+      "Battle Armor",
+      "0",
+      "0"
+   ],
+   "Kabutops": [
+      "Kabutops",
+      "Swift Swim",
+      "Swift Swim",
+      "Battle Armor",
+      "Battle Armor",
+      "0",
+      "0"
+   ],
+   "Kadabra": [
+      "Kadabra",
+      "Synchronize",
+      "Synchronize",
+      "Inner Focus",
+      "Inner Focus",
+      "3",
+      "3"
+   ],
+   "Kangaskhan": [
+      "Kangaskhan",
+      "Early Bird",
+      "Early Bird",
+      "Early Bird",
+      "Early Bird",
+      "0",
+      "0"
+   ],
+   "Kecleon": [
+      "Weavile",
+      "Color Change",
+      "Pressure",
+      "Color Change",
+      "Pressure",
+      "3",
+      "3"
+   ],
+   "Kingler": [
+      "Kingler",
+      "Hyper Cutter",
+      "Shell Armor",
+      "Shell Armor",
+      "Hyper Cutter",
+      "0",
+      "0"
+   ],
+   "Koffing": [
+      "Koffing",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "0",
+      "0"
+   ],
+   "Krabby": [
+      "Krabby",
+      "Hyper Cutter",
+      "Shell Armor",
+      "Shell Armor",
+      "Hyper Cutter",
+      "0",
+      "0"
+   ],
+   "Kyogre": [
+      "Kyogre",
+      "Drizzle",
+      "Drizzle",
+      "Drizzle",
+      "Drizzle",
+      "5",
+      "5"
+   ],
+   "Lairon": [
+      "Tauros-Pa",
+      "Sturdy",
+      "Swift Swim",
+      "Rock Head",
+      "Swift Swim",
+      "5",
+      "5"
+   ],
+   "Lanturn": [
+      "Lanturn",
+      "Volt Absorb",
+      "Volt Absorb",
+      "Illuminate",
+      "Illuminate",
+      "5",
+      "5"
+   ],
+   "Lapras": [
+      "Lapras",
+      "Water Absorb",
+      "Shell Armor",
+      "Shell Armor",
+      "Water Absorb",
+      "5",
+      "5"
+   ],
+   "Ledian": [
+      "Ledian",
+      "Swarm",
+      "Early Bird",
+      "Early Bird",
+      "Swarm",
+      "4",
+      "4"
+   ],
+   "Ledyba": [
+      "Ledyba",
+      "Swarm",
+      "Early Bird",
+      "Early Bird",
+      "Swarm",
+      "4",
+      "4"
+   ],
+   "Lickitung": [
+      "Lickitung",
+      "Own Tempo",
+      "Own Tempo",
+      "Oblivious",
+      "Oblivious",
+      "0",
+      "0"
+   ],
+   "Lileep": [
+      "Happiny",
+      "Suction Cups",
+      "Natural Cure",
+      "Suction Cups",
+      "Serene Grace",
+      "1",
+      "4"
+   ],
+   "Linoone": [
+      "Charizardx",
+      "Pickup",
+      "Flash Fire",
+      "Pickup",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Lombre": [
+      "Mismagius",
+      "Swift Swim",
+      "Levitate",
+      "Rain Dish",
+      "Levitate",
+      "3",
+      "4"
+   ],
+   "Lotad": [
+      "Ambipom",
+      "Swift Swim",
+      "Limber",
+      "Rain Dish",
+      "Limber",
+      "3",
+      "4"
+   ],
+   "Loudred": [
+      "Electivire",
+      "Soundproof",
+      "Lightningrod",
+      "Soundproof",
+      "Lightningrod",
+      "3",
+      "3"
+   ],
+   "Ludicolo": [
+      "Honchkrow",
+      "Swift Swim",
+      "Insomnia",
+      "Rain Dish",
+      "Insomnia",
+      "3",
+      "3"
+   ],
+   "Lugia": [
+      "Lugia",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Lunatone": [
+      "S. Shocks",
+      "Levitate",
+      "Static",
+      "Levitate",
+      "Static",
+      "4",
+      "5"
+   ],
+   "Luvdisc": [
+      "Gallade",
+      "Swift Swim",
+      "Inner Focus",
+      "Swift Swim",
+      "Inner Focus",
+      "4",
+      "5"
+   ],
+   "Machop": [
+      "Machop",
+      "Guts",
+      "Guts",
+      "Guts",
+      "Guts",
+      "3",
+      "3"
+   ],
+   "Magby": [
+      "Magby",
+      "Flame Body",
+      "Flame Body",
+      "Flame Body",
+      "Flame Body",
+      "0",
+      "0"
+   ],
+   "Magcargo": [
+      "Magcargo",
+      "Magma Armor",
+      "Water Absorb",
+      "Flame Body",
+      "Water Absorb",
+      "0",
+      "0"
+   ],
+   "Magnemite": [
+      "Magnemite",
+      "Magnet Pull",
+      "Magnet Pull",
+      "Sturdy",
+      "Sturdy",
+      "0",
+      "0"
+   ],
+   "Manectric": [
+      "Wugtrio",
+      "Static",
+      "Swift Swim",
+      "Lightningrod",
+      "Sand Veil",
+      "5",
+      "5"
+   ],
+   "Mankey": [
+      "Mankey",
+      "Vital Spirit",
+      "Vital Spirit",
+      "Vital Spirit",
+      "Vital Spirit",
+      "0",
+      "0"
+   ],
+   "Mantine": [
+      "Mantine",
+      "Swift Swim",
+      "Swift Swim",
+      "Water Absorb",
+      "Water Absorb",
+      "5",
+      "5"
+   ],
+   "Mareep": [
+      "Mareep",
+      "Static",
+      "Static",
+      "Static",
+      "Static",
+      "3",
+      "3"
+   ],
+   "Marill": [
+      "Marill",
+      "Thick Fat",
+      "Huge Power",
+      "Huge Power",
+      "Huge Power",
+      "4",
+      "4"
+   ],
+   "Masquerain": [
+      "Mr. Rime",
+      "Intimidate",
+      "Inner Focus",
+      "Intimidate",
+      "Inner Focus",
+      "0",
+      "0"
+   ],
+   "Mawile": [
+      "Bronzong",
+      "Hyper Cutter",
+      "Levitate",
+      "Intimidate",
+      "Levitate",
+      "4",
+      "4"
+   ],
+   "Medicham": [
+      "Toedscruel",
+      "Pure Power",
+      "Natural Cure",
+      "Pure Power",
+      "Water Absorb",
+      "0",
+      "5"
+   ],
+   "Meditite": [
+      "Toedscool",
+      "Pure Power",
+      "Natural Cure",
+      "Pure Power",
+      "Water Absorb",
+      "0",
+      "5"
+   ],
+   "Meganium": [
+      "Meganium",
+      "Overgrow",
+      "Overgrow",
+      "Overgrow",
+      "Overgrow",
+      "3",
+      "3"
+   ],
+   "Metapod": [
+      "Metapod",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "0",
+      "5"
+   ],
+   "Mewtwo": [
+      "Mewtwo",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Mightyena": [
+      "Melmetal",
+      "Intimidate",
+      "Hyper Cutter",
+      "Intimidate",
+      "Hyper Cutter",
+      "0",
+      "5"
+   ],
+   "Miltank": [
+      "Miltank",
+      "Thick Fat",
+      "Thick Fat",
+      "Thick Fat",
+      "Thick Fat",
+      "5",
+      "5"
+   ],
+   "Minun": [
+      "Glaceon",
+      "Minus",
+      "Clear Body",
+      "Minus",
+      "Clear Body",
+      "0",
+      "0"
+   ],
+   "Misdreavus": [
+      "Misdreavus",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "4",
+      "4"
+   ],
+   "Moltres": [
+      "Moltres",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Mr. Mime": [
+      "Mr. Mime",
+      "Soundproof",
+      "Soundproof",
+      "Soundproof",
+      "Soundproof",
+      "0",
+      "0"
+   ],
+   "Muk": [
+      "Muk",
+      "Stench",
+      "Sticky Hold",
+      "Sticky Hold",
+      "Stench",
+      "0",
+      "0"
+   ],
+   "Murkrow": [
+      "Murkrow",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "Insomnia",
+      "3",
+      "3"
+   ],
+   "Natu": [
+      "Natu",
+      "Synchronize",
+      "Synchronize",
+      "Early Bird",
+      "Early Bird",
+      "0",
+      "0"
+   ],
+   "Nidoran-F": [
+      "Nidoran-F",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "3",
+      "3"
+   ],
+   "Nidorina": [
+      "Nidorina",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "3",
+      "3"
+   ],
+   "Nidorino": [
+      "Nidorino",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "Poison Point",
+      "3",
+      "3"
+   ],
+   "Ninetales": [
+      "Ninetales",
+      "Flash Fire",
+      "Flash Fire",
+      "Flash Fire",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Noctowl": [
+      "Noctowl",
+      "Insomnia",
+      "Insomnia",
+      "Keen Eye",
+      "Compoundeyes",
+      "0",
+      "0"
+   ],
+   "Nosepass": [
+      "Gliscor",
+      "Sturdy",
+      "Hyper Cutter",
+      "Magnet Pull",
+      "Sand Veil",
+      "0",
+      "3"
+   ],
+   "Numel": [
+      "Wyrdeer",
+      "Oblivious",
+      "Intimidate",
+      "Oblivious",
+      "Intimidate",
+      "0",
+      "5"
+   ],
+   "Nuzleaf": [
+      "Lickilicky",
+      "Chlorophyll",
+      "Serene Grace",
+      "Early Bird",
+      "Limber",
+      "3",
+      "0"
+   ],
+   "Octillery": [
+      "Octillery",
+      "Suction Cups",
+      "Swift Swim",
+      "Suction Cups",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Oddish": [
+      "Oddish",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Serene Grace",
+      "3",
+      "3"
+   ],
+   "Omanyte": [
+      "Omanyte",
+      "Swift Swim",
+      "Shell Armor",
+      "Shell Armor",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Omastar": [
+      "Omastar",
+      "Swift Swim",
+      "Shell Armor",
+      "Shell Armor",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Onix": [
+      "Onix",
+      "Rock Head",
+      "Rock Head",
+      "Sturdy",
+      "Sturdy",
+      "0",
+      "0"
+   ],
+   "Paras": [
+      "Paras",
+      "Effect Spore",
+      "Effect Spore",
+      "Effect Spore",
+      "Effect Spore",
+      "0",
+      "0"
+   ],
+   "Parasect": [
+      "Parasect",
+      "Effect Spore",
+      "Effect Spore",
+      "Effect Spore",
+      "Effect Spore",
+      "0",
+      "0"
+   ],
+   "Pelipper": [
+      "Pikachu-S",
+      "Keen Eye",
+      "Static",
+      "Keen Eye",
+      "Static",
+      "0",
+      "0"
+   ],
+   "Persian": [
+      "Persian",
+      "Limber",
+      "Compoundeyes",
+      "Limber",
+      "Compoundeyes",
+      "0",
+      "0"
+   ],
+   "Pidgeot": [
+      "Pidgeot",
+      "Keen Eye",
+      "Early Bird",
+      "Keen Eye",
+      "Early Bird",
+      "3",
+      "3"
+   ],
+   "Pidgeotto": [
+      "Pidgeotto",
+      "Keen Eye",
+      "Early Bird",
+      "Keen Eye",
+      "Early Bird",
+      "3",
+      "3"
+   ],
+   "Pidgey": [
+      "Pidgey",
+      "Keen Eye",
+      "Keen Eye",
+      "Keen Eye",
+      "Keen Eye",
+      "3",
+      "3"
+   ],
+   "Piloswine": [
+      "Piloswine",
+      "Oblivious",
+      "Thick Fat",
+      "Oblivious",
+      "Thick Fat",
+      "5",
+      "5"
+   ],
+   "Pineco": [
+      "Pineco",
+      "Sturdy",
+      "Shell Armor",
+      "Sturdy",
+      "Shell Armor",
+      "0",
+      "0"
+   ],
+   "Pinsir": [
+      "Pinsir",
+      "Hyper Cutter",
+      "Hyper Cutter",
+      "Hyper Cutter",
+      "Hyper Cutter",
+      "5",
+      "5"
+   ],
+   "Plusle": [
+      "Leafeon",
+      "Plus",
+      "Chlorophyll",
+      "Plus",
+      "Chlorophyll",
+      "0",
+      "0"
+   ],
+   "Politoed": [
+      "Politoed",
+      "Water Absorb",
+      "Water Absorb",
+      "Damp",
+      "Thick Fat",
+      "3",
+      "3"
+   ],
+   "Poliwag": [
+      "Poliwag",
+      "Water Absorb",
+      "Water Absorb",
+      "Damp",
+      "Damp",
+      "3",
+      "3"
+   ],
+   "Poliwhirl": [
+      "Poliwhirl",
+      "Water Absorb",
+      "Water Absorb",
+      "Damp",
+      "Damp",
+      "3",
+      "3"
+   ],
+   "Poliwrath": [
+      "Poliwrath",
+      "Water Absorb",
+      "Guts",
+      "Damp",
+      "Guts",
+      "3",
+      "3"
+   ],
+   "Ponyta": [
+      "Ponyta",
+      "Run Away",
+      "Flash Fire",
+      "Flash Fire",
+      "Run Away",
+      "0",
+      "0"
+   ],
+   "Poochyena": [
+      "Meltan",
+      "Run Away",
+      "Magnet Pull",
+      "Run Away",
+      "Magnet Pull",
+      "0",
+      "5"
+   ],
+   "Porygon2": [
+      "Porygon2",
+      "Trace",
+      "Trace",
+      "Trace",
+      "Trace",
+      "0",
+      "0"
+   ],
+   "Primeape": [
+      "Primeape",
+      "Vital Spirit",
+      "Vital Spirit",
+      "Vital Spirit",
+      "Guts",
+      "0",
+      "0"
+   ],
+   "Psyduck": [
+      "Psyduck",
+      "Damp",
+      "Damp",
+      "Cloud Nine",
+      "Cloud Nine",
+      "0",
+      "0"
+   ],
+   "Pupitar": [
+      "Pupitar",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "Shed Skin",
+      "5",
+      "5"
+   ],
+   "Quagsire": [
+      "Quagsire",
+      "Damp",
+      "Water Absorb",
+      "Water Absorb",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Qwilfish": [
+      "Qwilfish",
+      "Poison Point",
+      "Intimidate",
+      "Swift Swim",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Raikou": [
+      "Raikou",
+      "Pressure",
+      "Inner Focus",
+      "Pressure",
+      "Inner Focus",
+      "5",
+      "5"
+   ],
+   "Rapidash": [
+      "Rapidash",
+      "Run Away",
+      "Flash Fire",
+      "Flash Fire",
+      "Run Away",
+      "0",
+      "0"
+   ],
+   "Raticate": [
+      "Raticate",
+      "Run Away",
+      "Guts",
+      "Guts",
+      "Hustle",
+      "0",
+      "0"
+   ],
+   "Rattata": [
+      "Rattata",
+      "Run Away",
+      "Guts",
+      "Guts",
+      "Hustle",
+      "0",
+      "0"
+   ],
+   "Rayquaza": [
+      "Rayquaza",
+      "Air Lock",
+      "Air Lock",
+      "Air Lock",
+      "Air Lock",
+      "5",
+      "5"
+   ],
+   "Relicanth": [
+      "Rapidash-Galar",
+      "Swift Swim",
+      "Flash Fire",
+      "Rock Head",
+      "White Smoke",
+      "5",
+      "0"
+   ],
+   "Remoraid": [
+      "Remoraid",
+      "Hustle",
+      "Swift Swim",
+      "Hustle",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Rhydon": [
+      "Rhydon",
+      "Lightningrod",
+      "Rock Head",
+      "Rock Head",
+      "Lightningrod",
+      "5",
+      "5"
+   ],
+   "Rhyhorn": [
+      "Rhyhorn",
+      "Lightningrod",
+      "Rock Head",
+      "Rock Head",
+      "Lightningrod",
+      "5",
+      "5"
+   ],
+   "Roselia": [
+      "Annihilape",
+      "Natural Cure",
+      "Vital Spirit",
+      "Poison Point",
+      "Inner Focus",
+      "3",
+      "3"
+   ],
+   "Sableye": [
+      "Mamoswine",
+      "Keen Eye",
+      "Thick Fat",
+      "Keen Eye",
+      "Thick Fat",
+      "3",
+      "5"
+   ],
+   "Sandshrew": [
+      "Sandshrew",
+      "Sand Veil",
+      "Sand Veil",
+      "Sand Veil",
+      "Sand Veil",
+      "0",
+      "0"
+   ],
+   "Sandslash": [
+      "Sandslash",
+      "Sand Veil",
+      "Poison Point",
+      "Sand Veil",
+      "Rough Skin",
+      "0",
+      "0"
+   ],
+   "Scyther": [
+      "Scyther",
+      "Swarm",
+      "Swarm",
+      "Swarm",
+      "Swarm",
+      "0",
+      "0"
+   ],
+   "Seadra": [
+      "Seadra",
+      "Poison Point",
+      "Swift Swim",
+      "Poison Point",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Seaking": [
+      "Seaking",
+      "Swift Swim",
+      "Swift Swim",
+      "Water Veil",
+      "Water Veil",
+      "0",
+      "0"
+   ],
+   "Sealeo": [
+      "Raticate-Alola",
+      "Thick Fat",
+      "Guts",
+      "Thick Fat",
+      "Thick Fat",
+      "3",
+      "0"
+   ],
+   "Seedot": [
+      "Magnezone",
+      "Chlorophyll",
+      "Magnet Pull",
+      "Early Bird",
+      "Sturdy",
+      "3",
+      "0"
+   ],
+   "Sentret": [
+      "Sentret",
+      "Run Away",
+      "Guts",
+      "Keen Eye",
+      "Guts",
+      "0",
+      "0"
+   ],
+   "Seviper": [
+      "Perrserker",
+      "Shed Skin",
+      "Battle Armor",
+      "Shed Skin",
+      "Battle Armor",
+      "2",
+      "0"
+   ],
+   "Sharpedo": [
+      "Sneasler",
+      "Rough Skin",
+      "Pressure",
+      "Rough Skin",
+      "Pressure",
+      "5",
+      "3"
+   ],
+   "Shellder": [
+      "Shellder",
+      "Shell Armor",
+      "Shell Armor",
+      "Shell Armor",
+      "Rain Dish",
+      "5",
+      "5"
+   ],
+   "Shiftry": [
+      "Rhyperior",
+      "Chlorophyll",
+      "Rock Head",
+      "Early Bird",
+      "Lightningrod",
+      "3",
+      "5"
+   ],
+   "Shroomish": [
+      "Bonsly",
+      "Effect Spore",
+      "Sturdy",
+      "Effect Spore",
+      "Rock Head",
+      "2",
+      "0"
+   ],
+   "Shuckle": [
+      "Shuckle",
+      "Sturdy",
+      "Shell Armor",
+      "Sturdy",
+      "Shell Armor",
+      "3",
+      "3"
+   ],
+   "Shuppet": [
+      "Marowak-Alola",
+      "Insomnia",
+      "Rock Head",
+      "Insomnia",
+      "Lightningrod",
+      "4",
+      "0"
+   ],
+   "Silcoon": [
+      "Graveler-Alola",
+      "Shed Skin",
+      "Magnet Pull",
+      "Shed Skin",
+      "Sturdy",
+      "0",
+      "3"
+   ],
+   "Skarmory": [
+      "Skarmory",
+      "Keen Eye",
+      "Keen Eye",
+      "Sturdy",
+      "Sturdy",
+      "5",
+      "5"
+   ],
+   "Skiploom": [
+      "Skiploom",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Skitty": [
+      "Diglett-Alola",
+      "Cute Charm",
+      "Arena Trap",
+      "Cute Charm",
+      "Sand Veil",
+      "4",
+      "0"
+   ],
+   "Slaking": [
+      "Dudunsparc",
+      "Truant",
+      "Serene Grace",
+      "Truant",
+      "Serene Grace",
+      "5",
+      "0"
+   ],
+   "Slakoth": [
+      "Corsola-Galar",
+      "Truant",
+      "Clear Body",
+      "Truant",
+      "Clear Body",
+      "5",
+      "4"
+   ],
+   "Slowking": [
+      "Slowking",
+      "Oblivious",
+      "Oblivious",
+      "Own Tempo",
+      "Own Tempo",
+      "0",
+      "0"
+   ],
+   "Slowpoke": [
+      "Slowpoke",
+      "Oblivious",
+      "Oblivious",
+      "Own Tempo",
+      "Own Tempo",
+      "0",
+      "0"
+   ],
+   "Slugma": [
+      "Slugma",
+      "Magma Armor",
+      "Water Absorb",
+      "Flame Body",
+      "Water Absorb",
+      "0",
+      "0"
+   ],
+   "Smeargle": [
+      "Smeargle",
+      "Own Tempo",
+      "Own Tempo",
+      "Own Tempo",
+      "Own Tempo",
+      "4",
+      "4"
+   ],
+   "Smoochum": [
+      "Smoochum",
+      "Oblivious",
+      "Oblivious",
+      "Oblivious",
+      "Oblivious",
+      "0",
+      "0"
+   ],
+   "Sneasel": [
+      "Sneasel",
+      "Inner Focus",
+      "Inner Focus",
+      "Keen Eye",
+      "Inner Focus",
+      "3",
+      "3"
+   ],
+   "Snorlax": [
+      "Snorlax",
+      "Immunity",
+      "Thick Fat",
+      "Thick Fat",
+      "Immunity",
+      "5",
+      "5"
+   ],
+   "Snorunt": [
+      "Munchlax",
+      "Inner Focus",
+      "Thick Fat",
+      "Inner Focus",
+      "Pickup",
+      "0",
+      "5"
+   ],
+   "Snubbull": [
+      "Snubbull",
+      "Intimidate",
+      "Intimidate",
+      "Run Away",
+      "Intimidate",
+      "4",
+      "4"
+   ],
+   "Solrock": [
+      "Blastoisem",
+      "Levitate",
+      "Shell Armor",
+      "Levitate",
+      "Shell Armor",
+      "4",
+      "4"
+   ],
+   "Spearow": [
+      "Spearow",
+      "Keen Eye",
+      "Keen Eye",
+      "Keen Eye",
+      "Keen Eye",
+      "0",
+      "0"
+   ],
+   "Spheal": [
+      "Rattata-Alola",
+      "Thick Fat",
+      "Guts",
+      "Thick Fat",
+      "Run Away",
+      "3",
+      "0"
+   ],
+   "Spinarak": [
+      "Spinarak",
+      "Swarm",
+      "Intimidate",
+      "Insomnia",
+      "Intimidate",
+      "4",
+      "4"
+   ],
+   "Spinda": [
+      "Spinda",
+      "Own Tempo",
+      "Own Tempo",
+      "Own Tempo",
+      "Own Tempo",
+      "4",
+      "4"
+   ],
+   "Spoink": [
+      "Sandshrewa",
+      "Thick Fat",
+      "Soundproof",
+      "Own Tempo",
+      "Soundproof",
+      "4",
+      "0"
+   ],
+   "Squirtle": [
+      "Squirtle",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Shell Armor",
+      "3",
+      "5"
+   ],
+   "Stantler": [
+      "Stantler",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "5",
+      "5"
+   ],
+   "Starmie": [
+      "Starmie",
+      "Illuminate",
+      "Natural Cure",
+      "Natural Cure",
+      "Illuminate",
+      "5",
+      "5"
+   ],
+   "Staryu": [
+      "Staryu",
+      "Illuminate",
+      "Natural Cure",
+      "Natural Cure",
+      "Illuminate",
+      "5",
+      "5"
+   ],
+   "Sudowoodo": [
+      "Sudowoodo",
+      "Sturdy",
+      "Sturdy",
+      "Rock Head",
+      "Rock Head",
+      "0",
+      "0"
+   ],
+   "Suicune": [
+      "Suicune",
+      "Pressure",
+      "Inner Focus",
+      "Pressure",
+      "Inner Focus",
+      "5",
+      "5"
+   ],
+   "Sunflora": [
+      "Sunflora",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Sunkern": [
+      "Sunkern",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Surskit": [
+      "Mr. Mime-Galar",
+      "Swift Swim",
+      "Natural Cure",
+      "Swift Swim",
+      "Serene Grace",
+      "0",
+      "0"
+   ],
+   "Swablu": [
+      "Growlitheh",
+      "Natural Cure",
+      "Intimidate",
+      "Natural Cure",
+      "Flash Fire",
+      "1",
+      "5"
+   ],
+   "Swalot": [
+      "Weezing-Galar",
+      "Liquid Ooze",
+      "Levitate",
+      "Sticky Hold",
+      "Levitate",
+      "2",
+      "0"
+   ],
+   "Swinub": [
+      "Swinub",
+      "Oblivious",
+      "Thick Fat",
+      "Oblivious",
+      "Thick Fat",
+      "5",
+      "5"
+   ],
+   "Tangela": [
+      "Tangela",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "0",
+      "0"
+   ],
+   "Tauros": [
+      "Tauros",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "Intimidate",
+      "5",
+      "5"
+   ],
+   "Teddiursa": [
+      "Teddiursa",
+      "Pickup",
+      "Keen Eye",
+      "Pickup",
+      "Pickup",
+      "0",
+      "0"
+   ],
+   "Togepi": [
+      "Togepi",
+      "Hustle",
+      "Serene Grace",
+      "Serene Grace",
+      "Hustle",
+      "4",
+      "4"
+   ],
+   "Togetic": [
+      "Togetic",
+      "Hustle",
+      "Serene Grace",
+      "Serene Grace",
+      "Hustle",
+      "4",
+      "4"
+   ],
+   "Torkoal": [
+      "Screamtail",
+      "White Smoke",
+      "Trace",
+      "White Smoke",
+      "Trace",
+      "0",
+      "5"
+   ],
+   "Totodile": [
+      "Totodile",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "3",
+      "3"
+   ],
+   "Tropius": [
+      "Exeggutora",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "5",
+      "5"
+   ],
+   "Typhlosion": [
+      "Typhlosion",
+      "Blaze",
+      "Blaze",
+      "Blaze",
+      "Blaze",
+      "3",
+      "3"
+   ],
+   "Tyranitar": [
+      "Tyranitar",
+      "Sand Stream",
+      "Intimidate",
+      "Sand Stream",
+      "Intimidate",
+      "5",
+      "5"
+   ],
+   "Tyrogue": [
+      "Tyrogue",
+      "Guts",
+      "Guts",
+      "Guts",
+      "Guts",
+      "0",
+      "0"
+   ],
+   "Umbreon": [
+      "Umbreon",
+      "Synchronize",
+      "Synchronize",
+      "Synchronize",
+      "Synchronize",
+      "0",
+      "0"
+   ],
+   "Unown": [
+      "Unown",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "0",
+      "0"
+   ],
+   "Ursaring": [
+      "Ursaring",
+      "Guts",
+      "Guts",
+      "Guts",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Vaporeon": [
+      "Vaporeon",
+      "Water Absorb",
+      "Water Absorb",
+      "Water Absorb",
+      "Water Absorb",
+      "0",
+      "0"
+   ],
+   "Venomoth": [
+      "Venomoth",
+      "Shield Dust",
+      "Shield Dust",
+      "Shield Dust",
+      "Shield Dust",
+      "0",
+      "0"
+   ],
+   "Venonat": [
+      "Venonat",
+      "Compoundeyes",
+      "Compoundeyes",
+      "Compoundeyes",
+      "Compoundeyes",
+      "0",
+      "0"
+   ],
+   "Venusaur": [
+      "Venusaur",
+      "Overgrow",
+      "Overgrow",
+      "Overgrow",
+      "Poison Point",
+      "3",
+      "5"
+   ],
+   "Victreebel": [
+      "Victreebel",
+      "Chlorophyll",
+      "Intimidate",
+      "Chlorophyll",
+      "Intimidate",
+      "3",
+      "3"
+   ],
+   "Vigoroth": [
+      "Cursola",
+      "Vital Spirit",
+      "Shadow Tag",
+      "Vital Spirit",
+      "Shadow Tag",
+      "5",
+      "4"
+   ],
+   "Vileplume": [
+      "Vileplume",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Serene Grace",
+      "3",
+      "3"
+   ],
+   "Volbeat": [
+      "Wooper-P",
+      "Illuminate",
+      "Water Absorb",
+      "Swarm",
+      "Poison Point",
+      "1",
+      "0"
+   ],
+   "Voltorb": [
+      "Voltorb",
+      "Soundproof",
+      "Static",
+      "Static",
+      "Soundproof",
+      "0",
+      "0"
+   ],
+   "Vulpix": [
+      "Vulpix",
+      "Flash Fire",
+      "Flash Fire",
+      "Flash Fire",
+      "Flash Fire",
+      "0",
+      "0"
+   ],
+   "Wailmer": [
+      "Slowpoke-Galar",
+      "Water Veil",
+      "Immunity",
+      "Oblivious",
+      "Serene Grace",
+      "2",
+      "0"
+   ],
+   "Wailord": [
+      "Slowbro-Galar",
+      "Water Veil",
+      "Speed Boost",
+      "Oblivious",
+      "Speed Boost",
+      "2",
+      "0"
+   ],
+   "Walrein": [
+      "Raichu-Alola",
+      "Thick Fat",
+      "Static",
+      "Thick Fat",
+      "Static",
+      "3",
+      "0"
+   ],
+   "Wartortle": [
+      "Wartortle",
+      "Torrent",
+      "Torrent",
+      "Torrent",
+      "Shell Armor",
+      "3",
+      "5"
+   ],
+   "Weepinbell": [
+      "Weepinbell",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "Chlorophyll",
+      "3",
+      "3"
+   ],
+   "Weezing": [
+      "Weezing",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "Levitate",
+      "0",
+      "0"
+   ],
+   "Whiscash": [
+      "Persian-Alola",
+      "Oblivious",
+      "Intimidate",
+      "Oblivious",
+      "Intimidate",
+      "0",
+      "0"
+   ],
+   "Whismur": [
+      "Magmortar",
+      "Soundproof",
+      "Flame Body",
+      "Soundproof",
+      "Flame Body",
+      "3",
+      "0"
+   ],
+   "Wigglytuff": [
+      "Wigglytuff",
+      "Cute Charm",
+      "Cute Charm",
+      "Cute Charm",
+      "Soundproof",
+      "4",
+      "4"
+   ],
+   "Wingull": [
+      "Pikachu-F",
+      "Keen Eye",
+      "Static",
+      "Keen Eye",
+      "Static",
+      "0",
+      "0"
+   ],
+   "Wooper": [
+      "Wooper",
+      "Damp",
+      "Water Absorb",
+      "Water Absorb",
+      "Swift Swim",
+      "0",
+      "0"
+   ],
+   "Wurmple": [
+      "Geodude-Alola",
+      "Shield Dust",
+      "Magnet Pull",
+      "Shield Dust",
+      "Sturdy",
+      "0",
+      "3"
+   ],
+   "Wynaut": [
+      "Wynaut",
+      "Shadow Tag",
+      "Shadow Tag",
+      "Shadow Tag",
+      "Shadow Tag",
+      "0",
+      "0"
+   ],
+   "Xatu": [
+      "Xatu",
+      "Synchronize",
+      "Synchronize",
+      "Early Bird",
+      "Early Bird",
+      "0",
+      "0"
+   ],
+   "Yanma": [
+      "Yanma",
+      "Speed Boost",
+      "Compoundeyes",
+      "Compoundeyes",
+      "Compoundeyes",
+      "0",
+      "0"
+   ],
+   "Zangoose": [
+      "Ponyta-Galar",
+      "Immunity",
+      "Flash Fire",
+      "Immunity",
+      "Run Away",
+      "1",
+      "0"
+   ],
+   "Zapdos": [
+      "Zapdos",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "Pressure",
+      "5",
+      "5"
+   ],
+   "Zigzagoon": [
+      "Venusaurm",
+      "Pickup",
+      "Thick Fat",
+      "Pickup",
+      "Thick Fat",
+      "0",
+      "0"
+   ],
+   "Zubat": [
+      "Zubat",
+      "Inner Focus",
+      "Inner Focus",
+      "Inner Focus",
+      "Inner Focus",
+      "0",
+      "0"
+   ]
+}
