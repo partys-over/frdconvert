@@ -2712,15 +2712,6 @@ document.getElementById('convertTeam').addEventListener('click', function () {
    const text = document.getElementById('output').value;
    handleInput()
 });
-
-document.getElementById('team_input').addEventListener('keydown', function(event) {
-   if (event.key === 'Enter') {
-      // Your logic here
-      console.log('Enter key pressed!');
-      // For example, you could call a function:
-      handleInput();
-   }
- });
  
  function handleInput() {
    const keys = Object.keys(pokemonChanges);
@@ -2737,37 +2728,55 @@ document.getElementById('team_input').addEventListener('keydown', function(event
       const match = mon_name.match(/\(([^)]+)\)/);
       if (match) {
          mon_name = match[1].trim();
-      }
+      } 
+      console.log(`OEFFMEF: '${mon_name}'`)
 
       if (keys.includes(mon_name)) {
+         console.log(`Changing mon: ${mon_name}`);
+         // Get new pokemon name
          const newName = pokemonChanges[mon_name][0];
+
          // Replace the name in the original line
          mon[0] = mon[0].replace(mon_name, newName);
-         // Replace the old ability with new one
-         mon_ability = mon[3].replace("Ability:", "").trim();
-         new_ability_index = pokemonChanges[mon_name].indexOf(mon_ability) + 1;
-         mon[3] = mon[3].replace(mon_ability, pokemonChanges[mon_name][new_ability_index]);
-         // Replace old level with estimated new level
-         original_mon_level_group = parseInt(pokemonChanges[mon_name][pokemonChanges[mon_name].length-2]);
-         new_level_group = parseInt(pokemonChanges[mon_name][pokemonChanges[mon_name].length-1]);
-         mon_level = parseInt(mon[4].replace("Level:", "").trim());
-         // Parse estimated experience
-         let estimated_experience = Number(level_groups[original_mon_level_group][mon_level - 1].replace(/,/g, ''));
 
-         // Convert level group to numbers
-         const numeric_levels = level_groups[new_level_group].map(x => Number(x.replace(/,/g, '')));
+         //loop through pokemon attributes to make changes
+         for (let attribute = 0; attribute < mon.length; attribute++) {
+            if (mon[attribute].includes("Ability:")) {//ability handling
+               // Replace the old ability with new one
+               mon_ability = mon[attribute].replace("Ability:", "").trim();
+               new_ability_index = pokemonChanges[mon_name].indexOf(mon_ability) + 1;
+               mon[attribute] = mon[attribute].replace(mon_ability, pokemonChanges[mon_name][new_ability_index]);
+            } else if (mon[attribute].includes("Level:")) {
+               original_mon_level_group = parseInt(pokemonChanges[mon_name][pokemonChanges[mon_name].length-2]);
 
-         // Find the highest number < estimated_experience
-         let index = -1;
-         for (let i = 0; i < numeric_levels.length; i++) {
-            if (numeric_levels[i] < estimated_experience) {
-               index = i;  // Keep updating until we go over
-            } else {
-               break;  // Since the list is sorted, we can stop early
+               new_level_group = parseInt(pokemonChanges[mon_name][pokemonChanges[mon_name].length-1]);
+               
+               if (new_level_group === original_mon_level_group) continue;
+
+               mon_level = parseInt(mon[attribute].replace("Level:", "").trim()) - 1;
+
+               // Parse estimated experience
+
+               let estimated_experience = Number(level_groups[original_mon_level_group][mon_level].replace(/,/g, ''));
+
+               // Convert level group to numbers
+               const numeric_levels = level_groups[new_level_group].map(x => Number(x.replace(/,/g, '')));
+
+               // Find the highest number < estimated_experience
+               let index = -1;
+               for (let i = 0; i < numeric_levels.length; i++) {
+                  if (numeric_levels[i] < estimated_experience) {
+                     index = i;  // Keep updating until we go over
+                  } else {
+                     break;  // Since the list is sorted, we can stop early
+                  }
+               }
+
+               new_level = parseInt(levels[index]) + 1
+
+               mon[attribute] = mon[attribute].replace(/Level: \d+/, `Level: ${new_level}`);
             }
          }
-         mon[4] = mon[4].replace(/Level: \d+/, "Level: " + (index + 1));
-
       }
 
       newTeam.push(mon.join('\n'));
